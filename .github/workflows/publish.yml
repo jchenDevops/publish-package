@@ -15,5 +15,5 @@ jobs:
           username: jchenDevops
           password: ${{ secrets.GITHUB_TOKEN }}
           registry: docker.pkg.github.com
-          repository: jchenDevops/publish-package/game
+          repository: jchendevops/publish-package/game
           tag_with_sha: true
